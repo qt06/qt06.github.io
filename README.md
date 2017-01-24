@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+![杨永全 135 7357 8733][my_pic]
 
-You can use the [editor on GitHub](https://github.com/qt06/qt06.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介：
 
-### Markdown
+* 真实姓名：杨永全，网名：晴天，性别：男，出生于1982年。
+* 山东烟台人，先天性青光眼，大约14岁完全失明。
+* 毕业于长春大学特殊教育学院。
+* 盲人按摩师，烟台慈善义工，[争渡读屏][1]创始人之一。
+* 了解html、javascript、css、php、c#等编程技术。
+* 熟悉WCAG、wai-aria、各类屏幕阅读器等无障碍技术和规范。
+* 长期关注和推动信息无障碍，曾推动和参与过腾讯QQ、QQ空间、腾讯微博、新浪微博、淘宝网、阿里旺旺、网易邮箱、YY语音等软件和产品的无障碍改造。
+* 手机： 13573578733
+* E-mail： qt06@foxmail.com
+* 个人博客： http://www.qt06.com/
+* 微博： http://weibo.com/qt06
+* github： https://github.com/qt06/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 主要时间线：
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* 2016年4月发起了盲人学编程培训课程，病参与c#入门课程的讲课。
+* 2015年5月为之多云开发的新浪微博无障碍客户端发布。
+* 2014年12月 发布了网页无障碍小书签[（acc.js）][2]。
+* 2014年7月基于xiunobbs二次开发的[QACMS（晴天无障碍建站系统）][3]发布。该系统现已应用于盲人安卓爱好者、争度网等多个盲人站点。
+* 2014年5月开始作为嘉宾参与国内知名视障人广播节目《视障热线》的《有无障碍》栏目的录制。
+* 2013年12月参加了北京残障一加一文化举办的《残障媒体议题工作坊》。
+* 2013年8月到2014年6月，参与了争渡家园发起的《盲人学电脑系列课程》的录制。
+* 2013年7月参加了ted北京活动，作为嘉宾做了有关信息无障碍的主题演讲。
+* 2013年3月参加了黑暗中对话工艺学院在上海举            办的创业培训
+* 2012年9月8日参加新浪云计算公开课第六期，作为新浪云计算优秀开发者做了《新浪云计算与信息无障碍》的主题演讲。
+* 2012年6月4-5日作为盲人用户和争渡读屏开发者的双重身份拜访了腾讯公司深圳总部，先后与QQ电脑管家团队、qt语音团队和QQ即时通信团队做了面对面交流，4日下午在腾讯大讲堂做了名为《你是我的眼——一个盲人用户谈腾讯产品的信息无障碍》的主题演讲。之后，6月26日，腾讯公司组建了“腾讯产品无障碍联盟”，要求公司所有产品必须满足无障碍标准，开始了全公司的产品无障碍改造。
+* 2012年5月到8月，参与了网易邮箱的无障碍改造和测试。
+* 2012年3月参加了北京红丹丹文化举办的《残疾人权利公约工作坊》。
+* 2012年1月到5月，参与了阿里旺旺的无障碍改造和测试工作。
+* 2011年12月，争渡读屏团队推出了[《争渡识图》][4]公益项目，通过在线志愿者为盲人看验证码，解决了盲人上网过程中的最大难题。
+* 2011年10月，参加了北京一加一残障文化举办的《青年残障领袖训练营》培训。
+* 2011年9月开始推动多玩公司的yy语音的无障碍改造。
+* 2011年7月9日参加了第六届D2前端技术论坛，做了《一个盲人眼中的信息无障碍》的主题演讲。论坛上同时举行了“蒙上眼睛无障碍体验活动”，很多参加论坛的朋友亲身体验到了盲人用户的困难，纷纷表示愿意为盲人尽自己的一份力量。之后有很多网站和软件都做了相应的无障碍改进。
+* 2011年5月，争渡读屏发布了免费的公益版，成为内地唯一的一款免费提供给盲人使用的读屏软件。公益版发布后，受到盲人朋友的热烈欢迎，短短一年多时间，用户量已经超过万人。公益版允许残联等培训机构免费使用争渡读屏进行培训和教学工作。到现在已经有湖南长沙、浙江杭州、四川泸州等多加培训机构使用争渡读屏公益版进行盲人电脑培训。
+* 2011年4月12日，到杭州拜访了淘宝网，与淘宝网和支付宝的前端工程师交流了淘宝网和支付宝存在的影响盲人使用的障碍。之后淘宝网成立了淘宝网信息无障碍团队，开始全面解决信息无障碍问题。
+* 2011年1月开始参与和推动了新浪微博的无障碍改造。
+* 2010年8月开始推动和参与QQ空间的无障碍改造。
+* 2010年10月参与了QQ邮箱的无障碍改造。
+* 2010年6月开始推动和参与腾讯微博的无障碍改造。
+* 2010年3月到2012年10月，参与免费开源读屏软件nvda的简体中文语言包的翻译和维护工作。
+* 2008年8月，与争渡一起组建争渡读屏团队，开始争渡读屏软件的开发。
+* 2006年至今，先后参与过自强盲人论坛、九州健康论坛、中国盲人在线等多个盲人网站的建设和维护。
+* 2006年11月参加全国首届盲人网页与软件设计大赛，获得网页组三等奖。
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 个人观点：
 
-[Link](url) and ![Image](src)
-```
+信息无障碍的目的在于让所有人包括残障人、老年人、儿童等都可以很方便的平等的获取信息。目前国内的现状是人们普遍缺乏对无障碍的理解和认识，同时也缺少有效的法律支持。
+很长一段时间内最主要的工作是普及无障碍意识。推动信息无障碍是个长期的持续的工作。
+现在大多数的信息障碍来源于信息提供者。互联网信息障碍主要来自于网站和软件的开发者。
+这几年来，我一直与软件开发者交流，最大的感触是，他们是有爱心的，是愿意做无障碍工作的，唯一缺乏的是无障碍意识，他们不知道他们的产品会给残障人带来麻烦。而一旦他们了解到这些障碍之后，都是很愿意进行改进的。
+所以，普及无障碍意识，从开发者入手是最直接、最有效的方式。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qt06/qt06.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[my_pic]: http://www.qt06.com/usr/attachment/1207755998_8218e92c.jpg
+[1]: http://www.zdsr.com/
+[2]: http://accjs.org/
+[4]: http://st.zd.hk/
+[3]: https://github.com/qt06/qacms/
