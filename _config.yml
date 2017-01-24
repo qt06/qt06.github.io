@@ -1,1 +1,25 @@
-theme: jekyll-theme-time-machine
+# Site settings
+title: qt06
+header-img: img/home-bg.jpg
+email: qt06.com@gmail.com
+copyright_name: 杨永全
+description: "一个盲人。"
+baseurl: ""
+url: ""
+twitter_username: qt10011
+github_username: qt06
+facebook_username: qt10011
+email_username: qt06.com@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
