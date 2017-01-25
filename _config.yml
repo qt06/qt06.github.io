@@ -16,7 +16,7 @@ email_username: qt06.com@gmail.com
 # google_tracking_id:
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 10
