@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "您想学的，尽在 6768 学院！"
+description: "A Clean Blog Theme by Start Bootstrap"
 ---
 
 {% for post in paginator.posts %}
@@ -14,7 +14,7 @@ description: "您想学的，尽在 6768 学院！"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">由 {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} 发布于 {{ post.date | date: "%Y年 %m月 %d日" }}</p>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
