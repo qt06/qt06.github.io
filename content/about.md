@@ -2,6 +2,10 @@
 title = "关于"
 date = 2008-04-02T23:36:00+08:00
 lastmod = 2020-05-22T17:29:21+08:00
+displayWordCount = false
+displayReadingTime = false
+displayCopyright = true
+badge = true
 +++
 
 

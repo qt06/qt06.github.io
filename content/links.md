@@ -2,6 +2,10 @@
 title = "友情链接"
 date = 2010-11-02T17:54:00+08:00
 lastmod = 2022-07-23T09:06:30+08:00
+displayWordCount = false
+displayReadingTime = false
+displayCopyright = true
+badge = true
 +++
 
 

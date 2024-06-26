@@ -2,6 +2,10 @@
 title = "隐私"
 date = 2010-11-03T14:31:00+08:00
 lastmod = 2020-09-03T16:28:38+08:00
+displayWordCount = false
+displayReadingTime = false
+displayCopyright = true
+badge = true
 +++
 
 

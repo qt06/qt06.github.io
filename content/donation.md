@@ -2,6 +2,10 @@
 title = "打赏"
 date = 2009-03-06T10:51:00+08:00
 lastmod = 2023-02-02T09:08:43+08:00
+displayWordCount = false
+displayReadingTime = false
+displayCopyright = true
+badge = true
 +++
 
 
